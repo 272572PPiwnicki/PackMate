@@ -14,4 +14,6 @@
 
    ```bash
    npx expo start
+   
+   follow instructions in the terminal
    ```
